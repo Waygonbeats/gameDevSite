@@ -1,0 +1,30 @@
+.header {
+  width: full;
+  height: 70px;
+  background-color: #fefefe;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 15);
+  display: flex;
+}
+.btnCont {
+margin-left:auto;
+padding-left: 20px;
+  height: 70px;
+  width:auto;
+  float:right;
+ 
+}
+.buttonPoz {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 50%;
+}
+
+.img {
+  display: flex;
+  justify-content: flex-start;
+  height: 100%;
+  padding: 20px 10px 20px 40px;
+  width: 50px;
+  height: 30px;
+  padding-right: 10%;
+}
